@@ -144,7 +144,7 @@ html {
 	gap: 3rem;
 }
 .card-category {
-	height: 20rem;
+	height: 10rem;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -202,7 +202,7 @@ html {
 	border: none;
 	color: #fff;
 	background-color: #0D2A66;
-	padding: 15px 32px;
+	padding: 15px 50px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
@@ -225,7 +225,7 @@ html {
 .menu-footer {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr) 30rem;
-	gap: 3rem;
+	gap: 5rem;
 	justify-items: center;
 }
 .title-footer {
